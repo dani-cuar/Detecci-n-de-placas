@@ -29,3 +29,11 @@ Recuerda cargar el archivo de pesos generado luego de ejecutar el entrenamiento 
 NOTA: es importante contar con una GPU a la hora de ejecutar el código, esto facilitará su visualización y ejecución, ya que de otra forma el código avanza demasiado lento, o incluso podría no funcionar.
 
 No olvides cambiar el path de "pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'" por el path donde tengas tu librería instalada.
+
+
+## Referenciando el Proyecto
+
+Si utilizas este proyecto en tu trabajo o investigación, por favor, asegúrate de referenciarlo:
+
+- Cuartas, D., and Jaramillo, J.(2023). "Detección de Caracteres en Placas Vehiculares mediante Procesamiento Digital de Imágenes y Algoritmos de Inteligencia Artificial". Trabajo final para la materia de Procesamiento Digital de Imágenes.
+  - [Repositorio en GitHub](https://github.com/dani-cuar/Plates-detection.git)

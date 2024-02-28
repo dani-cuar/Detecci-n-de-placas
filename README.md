@@ -7,5 +7,5 @@ Se realiza la extracción y detección de placas de dos formas diferentes, por m
 
 ## Usando YOLOV8
 
-Para el entrenamiento de YOLO, se hizo uso de la base de datos pública de la universidad popular del Cesar, que puedes encontrar en [Roboflow](https://universe.roboflow.com/universidad-popular-del-cesar-pmj7r/prueba_1-tnlwa/dataset/2![image](https://github.com/dani-cuar/Plates-detection/assets/42179443/59606eb4-b0e0-4eb3-9545-5e667c98873b)
-)
+Para el entrenamiento de YOLO, se hizo uso de la base de datos pública de la universidad popular del Cesar, que puedes encontrar en [Roboflow](https://universe.roboflow.com/universidad-popular-del-cesar-pmj7r/prueba_1-tnlwa)
+

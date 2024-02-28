@@ -5,7 +5,7 @@ Instala el archivo de requerimientos "requeriments.txt" con el comando pip insta
 Se realiza la extracción y detección de caracteres en placas de dos formas diferentes, por medio de métodos clásicos de algoritmos de procesamiento digital de imágenes, y con el uso de YOLOV8.
 
 ## Usando procesamiento digital de imágenes 
-La imagen muestra el proceso realizado para la extracción y deteccion de caracteres en las placas.
+La imagen muestra el proceso realizado para la extracción y detección de caracteres en las placas.
 
 El archivo lectura_placa_v4.py, contiene el código necesario para la ejecución de este. 
 

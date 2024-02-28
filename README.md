@@ -26,7 +26,7 @@ El archivo yolo_detection.py contiene el código necesario para la ejecución de
 
 Recuerda cargar el archivo de pesos generado luego de ejecutar el entrenamiento del modelo en YOLOV8_plate_detection.ipynb, asi como cargar el respectivo archivo mp4 de acuerdo a tu video.
 
-NOTA: es importante contar con una GPU a la hora de ejecutar el código, esto facilitará su visualización y ejecución, ya que de otra forma el código avanza demasiado lento, o incluso podría no funcionar.
+NOTA: se recomienda contar con una GPU a la hora de ejecutar el código, esto facilitará su visualización y ejecución, ya que de otra forma el código avanza demasiado lento, o incluso podría no funcionar.
 
 No olvides cambiar el path de "pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'" por el path donde tengas tu librería instalada.
 

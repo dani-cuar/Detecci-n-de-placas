@@ -14,4 +14,7 @@ NOTA: es importante asegurarse de cambiar el archivo de video cargado por el tuy
 Para el entrenamiento de YOLO, se hizo uso de la base de datos pública de la universidad popular del Cesar, que puedes encontrar en [Roboflow](https://universe.roboflow.com/universidad-popular-del-cesar-pmj7r/prueba_1-tnlwa)
 
 ![image](https://github.com/dani-cuar/Plates-detection/assets/42179443/5cf6df35-ee52-4504-a3b2-1df6c3bb28e8)
+
 El archivo yolo_detection.py contiene el código necesario para la ejecución de este.
+Recuerda cargar el archivo de pesos generado luego de ejecutar el entrenamiento del modelo en YOLOV8_plate_detection.ipynb, asi como cargar el respectivo archivo mp4 de acuerdo a tu video.
+NOTA: es importante contar con una GPU a la hora de ejecutar el código, esto facilitará su visualización y ejecución, ya que de otra forma el código avanza demasiado lento, o incluso podría no funcionar.
